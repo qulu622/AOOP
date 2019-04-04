@@ -1,4 +1,5 @@
 # AOOP
 
-2018年-高等物件導向程式設計  
-五次程式作業
+2018年  
+高等物件導向程式設計 (Advanced Object-Oriented Programming)  
+程式作業  
